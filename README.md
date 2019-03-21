@@ -1,25 +1,16 @@
-## Welcome to GitHub Pages
+## SEJA BEM-VINDO AO MEU SITE
 
-You can use the [editor on GitHub](https://github.com/JoelCTiemann/JoelCTiemann.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Meu nome é Joel, gosto de jogar jogos em computadores, não curto muito consoles.
+Assim que eu terminar o 2°, vou começar a fazer stream, porque é o que eu gosto, e assim que eu tiver um dinheiro, vou comprar um computador gamer.
+As configurações que eu desejo é:
+Processador - I7 8700 3.2GHz
+Placa Mãe - B360
+Memoria RAM - 8GB DDR4 2400MHz
+Placa de vídeo - GIGABYTE GEFORCE RTX 2060 OC 6GB
+Memoria ROM - 1000GB HD SATA 3 6.0Gb/s
+Fonte - 500W 80 PLUS BRONZE GAMEMAX
+Gabinete - GAMEMAX ECO - LATERAL FULL WINDOW + 3 FAN 32 - LED VERDE
+Sistema Operacional - WINDOWS 10 PRO 64 BIT OEM
 
 **Bold** and _Italic_ and `Code` text
 
