@@ -1,4 +1,4 @@
-## SEJA BEM-VINDO AO MEU SITE
+<center>## SEJA BEM-VINDO AO MEU SITE</center>
 
 Meu nome é Joel, gosto de jogar jogos em computadores, não curto muito consoles.<br>
 Assim que eu terminar o 2°, vou começar a fazer stream, porque é o que eu gosto, e assim que eu tiver um dinheiro, vou comprar um computador gamer.<br><br>
