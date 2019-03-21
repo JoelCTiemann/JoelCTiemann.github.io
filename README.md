@@ -1,16 +1,16 @@
 ## SEJA BEM-VINDO AO MEU SITE
 
-Meu nome é Joel, gosto de jogar jogos em computadores, não curto muito consoles.
-Assim que eu terminar o 2°, vou começar a fazer stream, porque é o que eu gosto, e assim que eu tiver um dinheiro, vou comprar um computador gamer.
-As configurações que eu desejo é:
-Processador - I7 8700 3.2GHz
-Placa Mãe - B360
-Memoria RAM - 8GB DDR4 2400MHz
-Placa de vídeo - GIGABYTE GEFORCE RTX 2060 OC 6GB
-Memoria ROM - 1000GB HD SATA 3 6.0Gb/s
-Fonte - 500W 80 PLUS BRONZE GAMEMAX
-Gabinete - GAMEMAX ECO - LATERAL FULL WINDOW + 3 FAN 32 - LED VERDE
-Sistema Operacional - WINDOWS 10 PRO 64 BIT OEM
+Meu nome é Joel, gosto de jogar jogos em computadores, não curto muito consoles.<br>
+Assim que eu terminar o 2°, vou começar a fazer stream, porque é o que eu gosto, e assim que eu tiver um dinheiro, vou comprar um computador gamer.<br>
+<b>As configurações que eu desejo é:</b><br>
+Processador - I7 8700 3.2GHz<br>
+Placa Mãe - B360<br>
+Memoria RAM - 8GB DDR4 2400MHz<br>
+Placa de vídeo - GIGABYTE GEFORCE RTX 2060 OC 6GB<br>
+Memoria ROM - 1000GB HD SATA 3 6.0Gb/s<br>
+Fonte - 500W 80 PLUS BRONZE GAMEMAX<br>
+Gabinete - GAMEMAX ECO - LATERAL FULL WINDOW + 3 FAN 32 - LED VERDE<br>
+Sistema Operacional - WINDOWS 10 PRO 64 BIT OEM<br>
 
 **Bold** and _Italic_ and `Code` text
 
