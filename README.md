@@ -1,4 +1,4 @@
-<center>## SEJA BEM-VINDO AO MEU SITE</center>
+## SEJA BEM-VINDO AO MEU SITE
 
 Meu nome é Joel, gosto de jogar jogos em computadores, não curto muito consoles.<br>
 Assim que eu terminar o 2°, vou começar a fazer stream, porque é o que eu gosto, e assim que eu tiver um dinheiro, vou comprar um computador gamer.<br><br>
@@ -12,17 +12,17 @@ Fonte - 500W 80 PLUS BRONZE GAMEMAX<br>
 Gabinete - GAMEMAX ECO - LATERAL FULL WINDOW + 3 FAN 32 - LED VERDE<br>
 Sistema Operacional - WINDOWS 10 PRO 64 BIT OEM<br>
 
-[Image](IMA.png)
+![Image](IMA.png)
 
 <h3>Meu Pai é dono da FAZENDA CATTANI e lá é produzido:</h3><br>
-banana;<br>
+Banana;<br>
 Limão;<br>
 Caju;<br>
 Goiaba;<br>
 
 <h4>Veja algumas imagens:</h4><br>
-[Image](DJI_0014.JPG)<br>
-[Image](DJI_0029.JPG)<br>
+![Image](DJI_0014.JPG)<br>
+![Image](DJI_0029.JPG)<br>
 
 
 
