@@ -20,7 +20,7 @@ Limão;<br>
 Caju;<br>
 Goiaba;<br>
 
-Veja algumas imagens:<br>
+<h4>Veja algumas imagens:</h4><br>
 [Image](DJI_0014.JPG)<br>
 [Image](DJI_0029.JPG)<br>
 
