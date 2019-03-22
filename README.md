@@ -11,6 +11,7 @@ Memoria ROM - 1000GB HD SATA 3 6.0Gb/s<br>
 Fonte - 500W 80 PLUS BRONZE GAMEMAX<br>
 Gabinete - GAMEMAX ECO - LATERAL FULL WINDOW + 3 FAN 32 - LED VERDE<br>
 Sistema Operacional - WINDOWS 10 PRO 64 BIT OEM<br>
+Meu perfil na Cube TV: ![link](https://www.cube.tv/22814964) <BR>
 
 ![Image](IMA.png)
 
