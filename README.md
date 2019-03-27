@@ -1,7 +1,7 @@
 ## SEJA BEM-VINDO AO MEU SITE
 
 <script type="text/javascript">
-	alert ("TEM CERTEZA QUE QUER ACESSAR O SITE?");
+	alert ("VOCÊ ESTÁ ACESSANDO O SITE DO Joel!");
 </script>
 
 
