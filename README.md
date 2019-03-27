@@ -2,6 +2,11 @@
 
 <script type="text/javascript">
 	alert ("VOCÊ ESTÁ ACESSANDO O SITE DO Joel!");
+	function redirecionar(){
+	if(confirm("Deseja ser redirecionado?")){
+		window.location="https://github.com/JoelCTiemann";
+	}
+}
 </script>
 
 
