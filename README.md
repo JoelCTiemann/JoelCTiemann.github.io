@@ -1,8 +1,8 @@
-## SEJA BEM-VINDO AO MEU SITE
-
-  <script type="text/javascript">
+<script type="text/javascript">
 	alert = ("TEM CERTEZA QUE QUER ACESSAR O SITE?")
 </script>
+
+## SEJA BEM-VINDO AO MEU SITE
 
 Meu nome é Joel, gosto de jogar jogos em computadores, não curto muito consoles.<br>
 Assim que eu terminar o 2°, vou começar a fazer stream, porque é o que eu gosto, e assim que eu tiver um dinheiro, vou comprar um computador gamer.<br><br>
