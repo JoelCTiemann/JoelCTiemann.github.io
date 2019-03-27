@@ -6,12 +6,12 @@
 if (decisao){
 
 alert ("Você clicou no botão OK,\n"+
-
-"porque foi retornado o valor: "+decisao);
+"Prossiga");
 
 } else {
 
-alert ("Você clicou no botão CANCELAR,\n" == https://github.com/JoelCTiemann/);
+alert ("Você clicou no botão CANCELAR,\n" +
+("VAi enrar do mesmo jeito");
 
 }
 </script>
