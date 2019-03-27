@@ -19,10 +19,19 @@ Meu perfil na Cube TV: <a href="https://www.cube.tv/22814964">AQUI</a>  <BR>
 ![Image](IMA.png)
 
 <h3>Meu Pai é dono da FAZENDA CATTANI e lá é produzido:</h3><br>
+Meu segundo irmão mais velho o André, ele é um dos que manda e também sabe fazer projetos de irrigação, é tanto que até o meu PAI pergunta o que tem que fazer lá. <br>
+Tipo:
+Hoje tem que pegar banana?<br>
+Hoje tem que pegar limão?<br>
+Amanha tem que pegar uns peao pra ajudar né.<br>
+<h3>O que é produzido?</h3>
 Banana;<br>
 Limão;<br>
 Caju;<br>
 Goiaba;<br>
+
+<h3>Qual a area total? (incluindo com reserva)</h3><br>
+50 hectares, e é tudo voltado para a fruticultura.<br>
 
 <h4>Veja algumas imagens:</h4><br>
 ![Image](DJI_0014.JPG)<br>
