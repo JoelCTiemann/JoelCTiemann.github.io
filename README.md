@@ -1,8 +1,9 @@
+## SEJA BEM-VINDO AO MEU SITE
+
 <script type="text/javascript">
-	alert = ("TEM CERTEZA QUE QUER ACESSAR O SITE?")
+	alert ("TEM CERTEZA QUE QUER ACESSAR O SITE?");
 </script>
 
-## SEJA BEM-VINDO AO MEU SITE
 
 Meu nome é Joel, gosto de jogar jogos em computadores, não curto muito consoles.<br>
 Assim que eu terminar o 2°, vou começar a fazer stream, porque é o que eu gosto, e assim que eu tiver um dinheiro, vou comprar um computador gamer.<br><br>
@@ -18,12 +19,13 @@ Sistema Operacional - WINDOWS 10 PRO 64 BIT OEM<br>
 Meu perfil na Cube TV: <a href="https://www.cube.tv/22814964">AQUI</a>  <BR>
 ![Image](IMA.png)
 
-<h3>Meu Pai é dono da FAZENDA CATTANI e lá é produzido:</h3><br>
+<h3>FAZENDA CATTANI</h3><br>
+Meu Pai é um dos proprietários.<br> 
 Meu segundo irmão mais velho o André, ele é um dos que manda e também sabe fazer projetos de irrigação, é tanto que até o meu PAI pergunta o que tem que fazer lá. <br>
-Tipo:
+Tipo: <br>
 Hoje tem que pegar banana?<br>
 Hoje tem que pegar limão?<br>
-Amanha tem que pegar uns peao pra ajudar né.<br>
+Amanha tem que pegar uns peão pra ajudar né.<br>
 <h3>O que é produzido?</h3>
 Banana;<br>
 Limão;<br>
