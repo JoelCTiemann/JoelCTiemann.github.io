@@ -11,9 +11,7 @@ alert ("Você clicou no botão OK,\n"+
 
 } else {
 
-alert ("Você clicou no botão CANCELAR,\n"+
-
-"porque foi retornado o valor: "+decisao);
+alert ("Você clicou no botão CANCELAR,\n" == https://github.com/JoelCTiemann/);
 
 }
 </script>
