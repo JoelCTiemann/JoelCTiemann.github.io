@@ -1,8 +1,7 @@
 ## SEJA BEM-VINDO AO MEU SITE
 
 <script type="text/javascript">
-	alert ("VOCÊ ESTÁ ACESSANDO O SITE DO Joel!");
-	decisao = confirm("Clique em um botão!");
+	decisao = confirm("VOCÊ ESTÁ ACESSANDO O SITE DO Joel");
 
 if (decisao){
 
