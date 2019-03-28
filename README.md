@@ -1,7 +1,7 @@
 ## SEJA BEM-VINDO AO MEU SITE
 
 <script type="text/javascript">
-	alert("VOCÊ ESTÁ ACESSANDO O SITE DO Joel!/nOK?");
+	alert("VOCÊ ESTÁ ACESSANDO O SITE DO Joel!"/n"OK?");
 </script>
 
 
