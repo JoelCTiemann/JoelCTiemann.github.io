@@ -1,5 +1,3 @@
-<body background-image url="587592.png">
-
 ## SEJA BEM-VINDO AO MEU SITE
 <body background-image url="587592.png">
 <script type="text/javascript">
@@ -45,5 +43,3 @@ Goiaba;<br>
 
 
 
-
-</body>
