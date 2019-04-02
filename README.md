@@ -1,5 +1,7 @@
-## SEJA BEM-VINDO AO MEU SITE
+<body background-image url="587592.png">
 
+## SEJA BEM-VINDO AO MEU SITE
+<body background-image url="587592.png">
 <script type="text/javascript">
 	alert("VOCÊ ESTÁ ACESSANDO O SITE DO Joel!\nOK?");
 </script>
@@ -44,3 +46,4 @@ Goiaba;<br>
 
 
 
+</body>
